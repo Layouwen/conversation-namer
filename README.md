@@ -47,7 +47,7 @@ MM-DD｜类型｜主题
 GitHub 仓库发布后，也可以使用 Git 安装。将 `YOUR_USERNAME` 替换为仓库所属的 GitHub 用户名或组织名；目标目录应尚不存在：
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/conversation-namer.git \
+git clone https://github.com/layouwen/conversation-namer.git \
   ~/.agents/skills/conversation-namer
 ```
 
